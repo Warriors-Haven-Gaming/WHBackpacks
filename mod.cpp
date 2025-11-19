@@ -1,0 +1,11 @@
+name = "Warriors Haven Backpacks";
+author = "thegamecracks";
+tooltip = "Warriors Haven Backpacks";
+tooltipOwned = "Warriors Haven Backpacks";
+actionName = "GitHub";
+action = "https://github.com/Warriors-Haven-Gaming/WHBackpacks";
+overview = "";
+// logo = "logo.jpg";
+// logoOver = "logo.jpg";
+// logoSmall = "logo.jpg";
+// picture = "logo.jpg";

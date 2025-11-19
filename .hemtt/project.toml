@@ -1,0 +1,21 @@
+name = "Warriors Haven Backpacks"
+author = "thegamecracks"
+prefix = "whb"
+mainprefix = "z"
+
+[version]
+major = 2025
+minor = 11
+patch = 19
+
+[files]
+include = [
+    "logo.jpg",
+    "README.md",
+]
+
+[hemtt.build]
+pdrive = "disallow"
+
+[hemtt.check]
+pdrive = "ignore"
