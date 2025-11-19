@@ -17,6 +17,61 @@ class CfgPatches {
 };
 
 class CfgVehicles {
+    class B_AssaultPack_blk;
+    class WHB_B_AssaultPack_blk : B_AssaultPack_blk {
+        displayName = "WHB Assault Pack (Black)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_cbr;
+    class WHB_B_AssaultPack_cbr : B_AssaultPack_cbr {
+        displayName = "WHB Assault Pack (Coyote)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_dgtl;
+    class WHB_B_AssaultPack_dgtl : B_AssaultPack_dgtl {
+        displayName = "WHB Assault Pack (Digital)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_eaf_F;
+    class WHB_B_AssaultPack_eaf_F : B_AssaultPack_eaf_F {
+        displayName = "WHB Assault Pack (Geometric)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_khk;
+    class WHB_B_AssaultPack_khk : B_AssaultPack_khk {
+        displayName = "WHB Assault Pack (Khaki)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_mcamo;
+    class WHB_B_AssaultPack_mcamo : B_AssaultPack_mcamo {
+        displayName = "WHB Assault Pack (MTP)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_ocamo;
+    class WHB_B_AssaultPack_ocamo : B_AssaultPack_ocamo {
+        displayName = "WHB Assault Pack (Hex)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_rgr;
+    class WHB_B_AssaultPack_rgr : B_AssaultPack_rgr {
+        displayName = "WHB Assault Pack (Green)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_sgg;
+    class WHB_B_AssaultPack_sgg : B_AssaultPack_sgg {
+        displayName = "WHB Assault Pack (Sage)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_tna_F;
+    class WHB_B_AssaultPack_tna_F : B_AssaultPack_tna_F {
+        displayName = "WHB Assault Pack (Tropic)";
+        maximumLoad = 480; // 160
+    };
+    class B_AssaultPack_wdl_F;
+    class WHB_B_AssaultPack_wdl_F : B_AssaultPack_wdl_F {
+        displayName = "WHB Assault Pack (Woodland)";
+        maximumLoad = 480; // 160
+    };
     class B_Carryall_blk;
     class WHB_B_Carryall_blk : B_Carryall_blk {
         displayName = "WHB Carryall Backpack (Black)";
