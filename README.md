@@ -2,6 +2,12 @@
 
 This Arma 3 mod adds high-capacity variants of existing backpacks. No fuss.
 
+<p align="center">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3608865966">
+        <img src="https://images.steamusercontent.com/ugc/15082381454476977962/788154F23BBFCFB6BE57080C8A49CC7F0771E512/">
+    </a>
+</p>
+
 We made this mod as an alternative to SN Carryall Backpack Lite and THC_Backpacks
 since they both have a hidden script that disables stamina, reduces recoil and sway,
 makes players harder for AI to spot, and negates player ratings.
