@@ -19,6 +19,9 @@ In the arsenal, you can find this mod's backpacks near the bottom with the WHB p
 - WHB Assault Packs (160 => 480, increased 3x)
 - WHB Carryall Backpacks (320 => 1000, increased 2.125x)
 
+Certain backpacks still depend on their original DLC, like the Tropic camo from Apex
+and Woodland camo from Contact DLC.
+
 ## Installation
 
 To build this mod from source, install [HEMTT] and run the following command:
