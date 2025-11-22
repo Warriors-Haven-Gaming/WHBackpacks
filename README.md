@@ -20,7 +20,7 @@ In the arsenal, you can find this mod's backpacks near the bottom with the WHB p
 - WHB Carryall Backpacks (320 => 1000, increased 2.125x)
 
 Certain backpacks still depend on their original DLC, like the Tropic camo from Apex
-and Woodland camo from Contact DLC.
+and the Woodland camo from Contact DLC.
 
 ## Installation
 
