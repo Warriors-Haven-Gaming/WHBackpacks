@@ -17,7 +17,7 @@ This mod skips all of that and simply creates the backpack variants, nothing els
 
 In the arsenal, you can find this mod's backpacks near the bottom with the WHB prefix:
 - WHB Assault Packs (160 => 480, increased 3x)
-- WHB Carryall Backpacks (320 => 1000, increased 2.125x)
+- WHB Carryall Backpacks (320 => 1000, increased 3.125x)
 
 Certain backpacks still depend on their original DLC, like the Tropic camo from Apex
 and the Woodland camo from Contact DLC.
