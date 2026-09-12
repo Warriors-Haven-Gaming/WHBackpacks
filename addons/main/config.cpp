@@ -10,7 +10,31 @@ class CfgPatches {
         };
         skipWhenMissingDependencies = 0;
 
-        units[] = {};
+        units[] = {
+            "WHB_B_AssaultPack_blk",
+            "WHB_B_AssaultPack_cbr",
+            "WHB_B_AssaultPack_dgtl",
+            "WHB_B_AssaultPack_eaf_F",
+            "WHB_B_AssaultPack_khk",
+            "WHB_B_AssaultPack_mcamo",
+            "WHB_B_AssaultPack_ocamo",
+            "WHB_B_AssaultPack_rgr",
+            "WHB_B_AssaultPack_sgg",
+            "WHB_B_AssaultPack_tna_F",
+            "WHB_B_AssaultPack_wdl_F",
+            "WHB_B_Carryall_blk",
+            "WHB_B_Carryall_cbr",
+            "WHB_B_Carryall_eaf_F",
+            "WHB_B_Carryall_ghex_F",
+            "WHB_B_Carryall_green_F",
+            "WHB_B_Carryall_khk",
+            "WHB_B_Carryall_mcamo",
+            "WHB_B_Carryall_ocamo",
+            "WHB_B_Carryall_oli",
+            "WHB_B_Carryall_oucamo",
+            "WHB_B_Carryall_taiga_F",
+            "WHB_B_Carryall_wdl_F",
+        };
     };
 };
 
