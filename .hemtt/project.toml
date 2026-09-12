@@ -10,7 +10,7 @@ patch = 19
 
 [files]
 include = [
-    "logo.jpg",
+    "logo.paa",
     "README.md",
 ]
 
