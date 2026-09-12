@@ -21,6 +21,8 @@ In the arsenal, you can find this mod's backpacks near the bottom with the WHB p
 
 Certain backpacks still depend on their original DLC, like the Tropic camo from Apex
 and the Woodland camo from Contact DLC.
+When loading Expeditionary Forces, Reaction Forces, or Western Sahara CDLCs,
+this mod adds additional backpack variants using the same stats as above.
 
 ## Installation
 
