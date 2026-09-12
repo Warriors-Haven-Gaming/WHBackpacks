@@ -34,6 +34,11 @@ class CfgPatches {
             "WHB_B_Carryall_oucamo",
             "WHB_B_Carryall_taiga_F",
             "WHB_B_Carryall_wdl_F",
+            "WHB_B_Kitbag_rgr",
+            "WHB_B_Kitbag_mcamo",
+            "WHB_B_Kitbag_sgg",
+            "WHB_B_Kitbag_cbr",
+            "WHB_B_Kitbag_tan",
         };
     };
 };
@@ -153,5 +158,30 @@ class CfgVehicles {
     class WHB_B_Carryall_wdl_F : B_Carryall_wdl_F {
         displayName = "WHB Carryall Backpack (Woodland)";
         maximumLoad = 1000; // 320
+    };
+    class B_Kitbag_rgr;
+    class WHB_B_Kitbag_rgr : B_Kitbag_rgr {
+        displayName = "WHB Kitbag (Green)";
+        maximumLoad = 840; // 280
+    };
+    class B_Kitbag_mcamo;
+    class WHB_B_Kitbag_mcamo : B_Kitbag_mcamo {
+        displayName = "WHB Kitbag (MTP)";
+        maximumLoad = 840; // 280
+    };
+    class B_Kitbag_sgg;
+    class WHB_B_Kitbag_sgg : B_Kitbag_sgg {
+        displayName = "WHB Kitbag (Sage)";
+        maximumLoad = 840; // 280
+    };
+    class B_Kitbag_cbr;
+    class WHB_B_Kitbag_cbr : B_Kitbag_cbr {
+        displayName = "WHB Kitbag (Coyote)";
+        maximumLoad = 840; // 280
+    };
+    class B_Kitbag_tan;
+    class WHB_B_Kitbag_tan : B_Kitbag_tan {
+        displayName = "WHB Kitbag (Tan)";
+        maximumLoad = 840; // 280
     };
 };

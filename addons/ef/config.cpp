@@ -14,6 +14,7 @@ class CfgPatches {
         units[] = {
             "WHB_EF_B_AssaultPack_coy",
             "WHB_EF_B_Carryall_coy",
+            "WHB_EF_B_Kitbag_coy",
             "WHB_EF_B_RaiderPack_black",
             "WHB_EF_B_RaiderPack_coy",
         };
@@ -30,6 +31,11 @@ class CfgVehicles {
     class WHB_EF_B_Carryall_coy : EF_B_Carryall_coy {
         displayName = "WHB Carryall Backpack (Coyote Brown)";
         maximumLoad = 1000; // 320
+    };
+    class EF_B_Kitbag_coy;
+    class WHB_EF_B_Kitbag_coy : EF_B_Kitbag_coy {
+        displayName = "WHB Kitbag (Coyote Brown)";
+        maximumLoad = 840; // 280
     };
     class EF_B_RaiderPack_black;
     class WHB_EF_B_RaiderPack_black : EF_B_RaiderPack_black {

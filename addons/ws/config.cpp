@@ -14,6 +14,7 @@ class CfgPatches {
         units[] = {
             "WHB_B_AssaultPack_desert_lxWS",
             "WHB_B_Carryall_desert_lxWS",
+            "WHB_B_Kitbag_desert_lxWS",
         };
     };
 };
@@ -28,5 +29,10 @@ class CfgVehicles {
     class WHB_B_Carryall_desert_lxWS : B_Carryall_desert_lxWS {
         displayName = "WHB Carryall Backpack (Desert)";
         maximumLoad = 1000; // 320
+    };
+    class B_Kitbag_desert_lxWS;
+    class WHB_B_Kitbag_desert_lxWS : B_Kitbag_desert_lxWS {
+        displayName = "WHB Kitbag (Desert)";
+        maximumLoad = 840; // 280
     };
 };
