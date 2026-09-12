@@ -4,7 +4,7 @@ class CfgPatches {
         author = "thegamecracks";
         url = "https://github.com/Warriors-Haven-Gaming/WHBackpacks";
 
-        requiredVersion = 2.20;
+        requiredVersion = 2.22;
         requiredAddons[] = {
             "A3_Supplies_F_Enoch_Bags",
             "A3_Supplies_F_Exp",
