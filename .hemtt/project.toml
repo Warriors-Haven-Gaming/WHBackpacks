@@ -4,9 +4,9 @@ prefix = "whb"
 mainprefix = "z"
 
 [version]
-major = 2025
-minor = 11
-patch = 19
+major = 2026
+minor = 9
+patch = 12
 
 [files]
 include = [
