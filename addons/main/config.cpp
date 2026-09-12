@@ -6,9 +6,7 @@ class CfgPatches {
 
         requiredVersion = 2.22;
         requiredAddons[] = {
-            "A3_Supplies_F_Enoch_Bags",
-            "A3_Supplies_F_Exp",
-            "A3_Weapons_F_Ammoboxes",
+            "A3_Data_F_Decade_Loadorder",
         };
         skipWhenMissingDependencies = 0;
 
