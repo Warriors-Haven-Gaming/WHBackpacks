@@ -25,6 +25,14 @@ and the Woodland camo from Contact DLC.
 When loading Expeditionary Forces, Reaction Forces, or Western Sahara CDLCs,
 this mod adds additional backpack variants using the same stats as above.
 
+If your mission/gamemode doesn't have a way to disable stamina, consider pairing
+this with [Weightless Speed Stamina]. If you're using [ACE] with Advanced Fatigue,
+consider reducing the Load Factor in CBA Settings to make ACE more lenient
+on your soldier's load.
+
+[Weightless Speed Stamina]: https://steamcommunity.com/sharedfiles/filedetails/?id=3360361909
+[ACE]: https://steamcommunity.com/sharedfiles/filedetails/?id=463939057
+
 ## Installation
 
 To build this mod from source, install [HEMTT] and run the following command:
