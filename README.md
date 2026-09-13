@@ -39,4 +39,15 @@ hemtt build
 
 This project is written under the [MIT] license.
 
+## Donations
+
+Warriors Haven Backpacks is a simple mod that took me little effort to put together.
+However, if you really like the increased capacity and use my mod often for your loadouts,
+please consider buying me a coffee! ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thegamecracks)
+
+Of course, you should also buy a coffee for the other mod creators that you rely on.
+They deserve it more!
+
 [MIT]: /LICENSE
